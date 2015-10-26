@@ -4,8 +4,8 @@
 */
 
 function loadMenus() {
-    var element = [{pageTitle: "index"}
-    
+    var element = [
+        {pageTitle: "index"}
     ];
     
     for(i = 0; i < element.length; i++) {
